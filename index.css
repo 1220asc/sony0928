@@ -1,0 +1,1191 @@
+body,html{
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    }
+    
+
+    .bebas-neue-regular {
+        font-family: "Mulish", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      body {
+    font-family:  "Mulish", sans-serif;/* Noto Sans KR 폰트 사용 */
+}
+
+
+    .logo1 img{
+        width: 100px;
+    
+    }
+    
+    .top_box {
+        display: flex;
+        gap: 120px;
+  
+        margin-top: -27px;
+        font-weight: bold;
+        color: rgb(0, 0, 0);
+      position: relative;
+      z-index: 1;
+      list-style: none;
+      text-decoration: none;
+    }
+    
+    .top_box a{
+        display: flex;
+        gap: 120px;
+        font-weight: bold;
+        color: rgb(0, 0, 0);
+      position: relative;
+      z-index: 1;
+      list-style: none;
+      text-decoration: none;
+    }
+    
+    .logo1{
+    margin-top: 14px;
+    margin-left: 10px;
+    }
+    .top_box{
+        display: flex;
+        gap: 120px;
+        margin-left: 950px;
+        margin-top: -27px;
+        font-weight: bold;
+        color: rgb(0, 0, 0);
+      position: relative;
+      z-index: 1;
+    }
+    
+    
+
+    
+    .top1:hover{
+        color: #cb4802;
+        cursor: pointer;
+    }
+    
+    
+    .top2:hover{
+        color: #cb4802;
+        cursor: pointer;
+    }
+    
+    
+    
+    .top3:hover{
+        color: #cb4802;
+        cursor: pointer;
+    }
+    
+    
+    
+    .top4:hover{
+        color: #cb4802;
+        cursor: pointer;
+    }
+    
+    
+    .top5:hover{
+        color: #cb4802;
+        cursor: pointer;
+    }
+    
+    .top1:hover, .top2:hover, .top3:hover, .top4:hover, .top5:hover {
+        color: #cb4802;
+        cursor: pointer;
+    }
+    .mainn_text{
+        font-size: 200px;
+        margin-top: 13px;
+        margin-left: 440px;
+        color: #ffffff;
+        font-weight: bold;
+       
+    }
+    
+    .mainn_text1{
+    margin-left: 220px;
+    margin-top: -10px;
+    }
+    
+    
+    .mainn_text3{
+        font-size: 270px;
+        margin-left: -210px;
+        margin-top: -34px;
+        }
+        
+  
+    
+
+
+.g_1{
+    margin-top: -130px;
+}
+
+
+        .bacg_111 img{
+            height: 960px;
+            width: 1920px;
+            position: relative;
+            z-index: -1;
+                }
+                .bacg_111{
+                    margin-top: -40px;
+                }
+                
+    
+    
+    .big_img1 img{
+    width:400px;
+    }
+    
+    .big_img1{
+        margin-top: 230px;
+        margin-left: 700px;
+        transform: rotate(-50deg);
+    }
+    
+    
+    .mainn_text2{
+        position: relative;
+        z-index: 1;
+        margin-left: 20px;
+        margin-top:12px;
+    }
+    
+
+
+
+    /* 두번째  */
+    
+    
+    
+    
+    
+    .text_main1{
+        margin-top: 410px;
+        margin-left: 150px;
+    }
+    
+    
+    .text_main1 img{
+        width: 700px;
+    }
+    
+    .imgq img{
+        width: 600px;
+        height: 500px;
+    }
+    
+    .imgq {
+        margin-left: 235px;
+        margin-top:20px;
+    }
+    
+    
+    .text_main2
+    {font-size: 30px;
+        font-weight: bold;
+        margin-top: -349px;
+        margin-left: 913px;
+        color: white;
+    }
+    
+    .box_orange1 {
+        width: 185px; 
+        height: 48px; 
+        background-color: #cb4802;
+        margin-left: 898px;
+        margin-top: -42px;
+    }
+    
+    
+    .text_sub1{
+        margin-left: 900px;
+        margin-top: -10px;
+        font-size: 20px;
+    }
+    
+    .t_pge{
+        margin-left: 100px;
+        margin-top: -120px;
+    }
+    
+    
+    /* 세번째 초고해상력 */
+    
+    .main_text2{
+        margin-top: 440px;
+        margin-left: 250px;
+        font-size: 32px;
+        font-weight: bold;
+       
+    }
+    
+    .main_text2_2{
+        font-size: 45px;  
+        margin-left: 258px;
+        margin-top: 10px;
+         font-weight: bold;
+         color: white;
+    }
+    
+    
+    .box_orange2 {
+        width: 223px; 
+        height: 65px; 
+        background-color: #cb4802;
+        margin-left: 250px;
+        margin-top: -62px;
+    }
+    
+    
+    .sub_text1{
+        margin-left: 250px;
+        margin-top:20px;
+        font-size: 20px;
+    }
+    
+    .main_img1 img{
+    width: 600px;
+    height: 800px;
+    }
+    
+    .main_img1 {
+        margin-left: 660px;
+        margin-top: -240px;
+        position: relative;
+    }
+    
+    .main_img2{
+        margin-left: 1140px;
+        margin-top: -790px;
+    }
+    
+    .main_img2 img{
+        width: 500px;
+        height: 720px;
+        box-shadow: 5px 5px 15px rgba(151, 151, 151, 0.5); /* 그림자 추가 */
+        }
+        
+    .cccm{
+        margin-left: 80px;
+      
+
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    /* 세번째 보케 */
+    
+    .main_text3{
+        margin-top: 440px;
+        margin-left: 250px;
+        font-size: 32px;
+        font-weight: bold;
+       
+    }
+    
+    .main_text3_2{
+        font-size: 45px;  
+        margin-left: 258px;
+        margin-top: 10px;
+         font-weight: bold;
+         color: white;
+    }
+    
+    
+    .box_orange3 {
+        width: 277px; 
+        height: 65px; 
+        background-color: #cb4802;
+        margin-left: 250px;
+        margin-top: -62px;
+    }
+    
+    
+    .sub_text6{
+        margin-left: 250px;
+        margin-top:20px;
+        font-size: 20px;
+    }
+    
+    .main_img3 img{
+        width: 550px;
+        height: 800px;
+    }
+    
+    .main_img3 {
+        margin-left: 690px;
+        margin-top: -250px;
+        position: relative;
+      
+    }
+    
+    .main_img4{
+        margin-left: 1140px;
+        margin-top: -790px;
+    }
+    
+    .main_img4 img{
+        width: 500px;
+        height: 720px;
+        box-shadow: 5px 5px 15px rgba(151, 151, 151, 0.5); /* 그림자 추가 */
+        }
+        
+    
+    
+            
+    .cccm2{
+        margin-left: 80px;
+      
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    /* <!-- 세번째 af --> */
+    
+    
+    .main_text4{
+        margin-top: 440px;
+        margin-left: 250px;
+        font-size: 32px;
+        font-weight: bold;
+       
+    }
+    
+    .main_text4_2{
+        font-size: 45px;  
+        margin-left: 258px;
+        margin-top: 10px;
+         font-weight: bold;
+         color: white;
+    }
+    
+    
+    .box_orange4 {
+        width: 169px; 
+        height: 65px; 
+        background-color: #cb4802;
+        margin-left: 250px;
+        margin-top: -62px;
+    }
+    
+    
+    .sub_text7{
+        margin-left: 250px;
+        margin-top:20px;
+        font-size: 20px;
+    }
+    
+    .main_img5 img{
+    width: 600px;
+    height: 800px;
+    }
+    
+    .main_img5 {
+        margin-left: 660px;
+        margin-top: -240px;
+        position: relative;
+      
+    }
+    
+    .main_img6{
+        margin-left: 1140px;
+        margin-top: -790px;
+    }
+    
+    .main_img6 img{
+        width: 500px;
+        height: 720px;
+        box-shadow: 5px 5px 15px rgba(151, 151, 151, 0.5); /* 그림자 추가 */
+        }
+        
+    
+    
+            
+    .cccm3{
+        margin-left: 80px;
+      
+    }
+ 
+    
+    /*  세번째*/
+    /* 렌즈 라인업 */
+
+
+    .main_text7{
+        margin-top: 440px;
+        margin-left: 250px;
+        font-size: 32px;
+        font-weight: bold;
+       color: white;
+    }
+    
+    .main_text8{
+        font-size: 45px;  
+        margin-left: 255px;
+        margin-top: 10px;
+         font-weight: bold;
+         color: rgb(255, 255, 255);
+    }
+    
+    
+    .box_orange6 {
+        width: 235px; 
+        height: 65px; 
+        background-color: #cb4802;
+        margin-left: 247px;
+        margin-top: -62px;
+    }
+    
+    
+    .main_text9{
+        margin-left: 250px;
+        margin-top:20px;
+        font-size: 20px;
+        color: white;
+    }
+
+
+
+    /* 박스1 */
+
+    .box_white1 {
+        width: 350px; /* 상자의 너비 */
+        height: 440px; /* 상자의 높이 (세로 길이) */
+        background-color: white; /* 상자의 배경색 */
+     margin-left: 300px;
+     margin-top: 180px;
+    }
+
+
+    .main_img7 img{
+     width: 440px;
+     height: 300px;
+    }
+
+
+.main_img7{
+margin-left: 335px;
+margin-top: 300px;
+    }
+
+
+   .main_text10{
+    font-size: 10px;
+    margin-left: -1005px;
+   }
+
+    .xxw{
+        color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 35px;
+   
+    margin-top: 185px;
+    }
+
+    .main_text11_2{
+        margin-left: -1014px;
+        font-size: 31px;
+    }
+
+
+    .main_text11{
+        margin-left: -1005px;
+        font-size: 27px;
+    }
+    .cmmss{
+        margin-top: -30px;
+    }
+
+
+
+    /* 박스2 */
+
+
+
+
+    
+ 
+
+    .main_img8 img{
+     width: 440px;
+     height: 300px;
+    }
+
+
+.main_img8{
+margin-left: 850px;
+margin-top: -300px;
+    }
+
+
+   .main_text10{
+    font-size: 20px;
+   }
+
+  
+    
+    .cmmss{
+        margin-top: -30px;
+    }
+
+    .vmeee{
+        color: rgb(0, 0, 0);
+        margin-left: 900px;
+        margin-top: -150px;
+        font-weight: bold;
+        font-size: 35px;
+    }
+
+
+    .main_text12{
+        font-size: 20px;
+
+    }
+
+    .main_text13{
+        font-size: 31px;
+    }
+
+  
+
+
+
+
+
+
+
+    /* 박스 3 */
+
+    
+
+    
+    
+    .box_white3 {
+        width: 350px; /* 상자의 너비 */
+        height: 440px; /* 상자의 높이 (세로 길이) */
+        background-color: white; /* 상자의 배경색 */
+     margin-left: 1300px;
+     margin-top: -130px;
+    }
+
+
+    .main_img9 img{
+    width: 440px;
+    height: 300px;
+    }
+
+
+.main_img9{
+margin-left: 1330px;
+margin-top: -300px;
+    }
+
+
+   .main_text14{
+    font-size: 20px;
+   }
+
+  
+    
+    .cmmss{
+        margin-top: -30px;
+    }
+
+    .mqqq{
+        color: rgb(255, 255, 255);
+     /*    margin-left: 1400px;
+        margin-top: -100px; */
+     
+        font-weight: bold;
+        font-size: 35px;
+    }
+
+
+    .main_text14{
+        font-size: 20px;
+       
+       
+
+    }
+.main_text15{
+    font-size: 31px;
+}
+    .gong{
+        margin-top: 300px;
+    }
+
+
+    /* 광고 */
+
+.main_text16{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 600px;
+    margin-left: 250px;
+}
+
+
+.main_text17{
+    color: white;
+    margin-left: 260px;
+    margin-top: -7px;
+    font-size: 20px;
+}
+
+
+.main_text18{
+    color: white;
+    font-size: 400px;
+    white-space: nowrap; /* 줄 바꿈을 방지 */
+}
+
+
+.gong img{
+    width: 700px;
+    height: 450px;
+}
+
+.gong{
+    margin-top: 360px;
+}
+.main_img111{
+    margin-top: -2310px;
+    margin-left: 1203px;
+}
+
+.main_img222{
+    margin-top: 30px;
+    margin-left: 1px;
+}
+
+
+.main_img333{
+    margin-top: 30px;
+    margin-left: 1203px;
+}
+
+.main_img444{
+    margin-top: 50px;
+    margin-left: 1px;
+}
+
+
+/* 푸터 */
+.vbe{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 310px;
+    color: white;
+}
+
+.footer_text1 {
+    font-weight: bold;
+}
+
+
+.footer_text2 {
+    margin-top: -27px;
+    margin-left: 130px;
+}
+
+.sub_text_footer{
+    font-size: 20px;
+}
+
+
+
+
+.footer_text3 {
+    font-weight: bold;
+}
+
+.footer_text4 {
+    margin-top: -27px;
+    margin-left: 170px;
+}
+
+
+
+
+
+.footer_text5 {
+    font-weight: bold;
+   
+}
+
+.footer_text6 {
+    margin-top: -28px;
+    margin-left: 155px;
+}
+
+
+
+.footer_text7 {
+    font-weight: bold;
+    margin-top: 6px;
+}
+
+.footer_text8 {
+    margin-top: -28px;
+    margin-left: 115px;
+}
+
+
+
+
+
+.footer_text9 {
+    font-weight: bold;
+   
+}
+
+.footer_text10 {
+    margin-top: -28px;
+    margin-left: 215px;
+}
+
+.footer_text11{
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+
+.footer_text12 {
+    font-weight: bold;
+   font-size: 14px;
+   margin-top: 3px;
+}
+
+.footer_text13 {
+    margin-top: -17px;
+    margin-left: 35px;
+    font-size: 14px;
+}
+
+
+.footer_text14 {
+    font-weight: bold;
+   font-size: 14px;
+   
+}
+
+
+.gray_box1 {
+    border-radius: 32px;
+    color: white;
+    width: 200px;
+    height: 35px;
+    border: 1px solid white; 
+    background-color: transparent; 
+    margin-left: 1600px;
+    margin-top: -300px;
+}
+
+.sub_text_footer{
+    margin-left: 1631px;
+    font-size: 16px;
+    margin-top: -32px;
+}
+
+.sub_text_footer:hover{
+    color: #929292;
+    cursor: pointer;
+}
+
+.footer{
+    margin-bottom: 250px;
+}
+
+.bbbbb{
+    margin-top: 50px;
+}
+
+
+
+/* 인트로 자바 */
+
+
+.orange_bigbox1 {
+    width: 620px; 
+    height: 181px; 
+    background-color: #0a0a0a;
+    margin-left: 628px;
+    margin-top: -830px;
+    animation: slideIn 0.5s forwards;
+    animation-delay: 0s; /* 첫 번째 박스는 즉시 나타남 */
+    position: relative;
+    z-index: -1;
+}
+
+.orange_bigbox2 {
+    width: 1045px; 
+    height: 175px;  
+    background-color: #0a0a0a;
+    margin-left: 428px;
+    margin-top: 120px;
+    animation: slideIn 0.5s forwards;
+    animation-delay: 0.5s; /* 두 번째 박스는 0.5초 후에 나타남 */
+    position: relative;
+    z-index: -1;
+}
+
+.orange_bigbox3 {
+    width: 1472px; 
+    height: 181px; 
+    background-color: #0a0a0a;
+    margin-left: 192px;
+    margin-top: 98px;
+    animation: slideIn 0.5s forwards;
+    animation-delay: 1s; /* 세 번째 박스는 1초 후에 나타남 */
+    position: relative;
+    z-index: -1;
+}
+@keyframes slideIn {
+    0% {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+
+
+.orange_bigbox1, .orange_bigbox2, .orange_bigbox3 {
+    opacity: 0; /* 초기 상태에서 보이지 않도록 설정 */
+    transition: opacity 0.5s ease, transform 0.5s ease; /* 부드러운 전환 효과 */
+    transform: translateY(20px); /* 아래에서 올라오는 효과 */
+}
+
+.orange_bigbox1.active {
+    opacity: 1; /* 활성화된 박스만 보이도록 설정 */
+    transform: translateY(0); /* 원래 위치로 이동 */
+    animation: slideIn 0.5s ease; /* slideIn 애니메이션 추가 */
+    animation-delay: 0s; /* 첫 번째 박스는 즉시 나타남 */
+}
+
+.orange_bigbox2.active {
+    opacity: 1; /* 활성화된 박스만 보이도록 설정 */
+    transform: translateY(0); /* 원래 위치로 이동 */
+    animation: slideIn 0.5s ease; /* slideIn 애니메이션 추가 */
+    animation-delay: 0.5s; /* 두 번째 박스는 0.5초 후에 나타남 */
+}
+
+.orange_bigbox3.active {
+    opacity: 1; /* 활성화된 박스만 보이도록 설정 */
+    transform: translateY(0); /* 원래 위치로 이동 */
+    animation: slideIn 0.5s ease; /* slideIn 애니메이션 추가 */
+    animation-delay: 1s; /* 세 번째 박스는 1초 후에 나타남 */
+}
+
+
+
+
+.hidden {
+    opacity: 0;
+    visibility: hidden;
+    transition:  visibility 0.5s ease;
+}
+
+.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+
+
+/* 글씨 움직이는 자바 */
+.main_text18 {
+    overflow: hidden; /* 텍스트가 컨테이너를 넘어가지 않도록 설정 */
+    white-space: nowrap; /* 텍스트가 줄 바꿈되지 않도록 설정 */
+    width: 100%; /* 컨테이너의 너비를 100%로 설정 */
+}
+
+
+
+
+
+
+
+
+
+.moving-right-10s::before {
+    content: "Future type the Future type the Future type the Future type the Future type Future type Future type the Future type Future type" ; /* 텍스트 반복 */
+    display: inline-block;
+    animation: moveRightInfinite 80s linear infinite;
+    position: relative;
+    z-index: -1;
+}
+.moving-left-5s::before {
+    content: "completion of completion of completion of Future type the completion of completion of completion of Future type the" ; /* 텍스트 반복 */
+    display: inline-block; /* 인라인 블록으로 설정하여 애니메이션 적용 가능 */
+    animation: moveLeft5s 130s linear infinite; /* 왼쪽으로 5초 이동하는 애니메이션 */
+    position: relative;
+    z-index: -1;
+}
+
+.moving-right-3s::before  {
+    content: "a G-MASTER a G-MASTER a G-MASTER a G-MASTER a G-MASTER a G-MASTER a G-MASTER a G-MASTER a G-MASTER a G-MASTER" ; /* 텍스트 반복 */
+    display: inline-block; /* 인라인 블록으로 설정하여 애니메이션 적용 가능 */
+    animation: moveRight3s 80s linear infinite; /* 오른쪽으로 3초 이동하는 애니메이션 */
+    position: relative;
+    z-index: -1;
+}
+
+.moving-left-2s::before {
+    content: "and the overwhelming and the overwhelming and the overwhelming and the overwhelming and the overwhelming and the overwhelming" ; /* 텍스트 반복 */
+    display: inline-block; /* 인라인 블록으로 설정하여 애니메이션 적용 가능 */
+    animation: moveLeft2s 110s linear infinite; /* 왼쪽으로 2초 이동하는 애니메이션 */
+    position: relative;
+    z-index: -1;
+}
+@keyframes moveRightInfinite {
+    0% {
+        transform: translateX(-100%); /* 텍스트가 왼쪽 화면 바깥에서 시작 */
+    }
+    100% {
+        transform: translateX(0); /* 텍스트가 화면 전체를 지나감 */
+    }
+}
+
+@keyframes moveLeft5s {
+    0% {
+        transform: translateX(0); /* 시작 위치 */
+    }
+    100% {
+        transform: translateX(-100%); /* 왼쪽으로 이동 */
+    }
+}
+
+@keyframes moveRight3s {
+    0% {
+        transform: translateX(-100%); /* 텍스트가 왼쪽 화면 바깥에서 시작 */
+    }
+    100% {
+        transform: translateX(0); /* 텍스트가 화면 전체를 지나감 */
+    }
+}
+
+@keyframes moveLeft2s {
+    0% {
+        transform: translateX(0); /* 시작 위치 */
+    }
+    100% {
+        transform: translateX(-100%); /* 왼쪽으로 이동 */
+    }
+}
+
+
+
+/* 박스 어두워지는. 글씨 생기는 */
+
+/* 박스 1 */
+
+
+/* .main_img7 img{
+    border-radius: 5%;
+}
+
+ */
+ .main_img7:hover img,
+ .box_b1:hover .main_img7 img,
+ .box_b1:hover .xxw:hover ~ .main_img7 img {
+     filter: brightness(50%); /* 밝기 조절로 어두운 효과 적용 */
+ }
+ 
+ /* 텍스트 스타일 */
+ .xxw {
+     cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+     font-weight: bold;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     color: rgb(255, 255, 255);
+     font-size: 20px;
+     text-align: center;
+     opacity: 0;
+     transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+ }
+ 
+ /* 이미지에 호버했을 때 텍스트 표시 */
+ .box_b1:hover .xxw {
+     opacity: 1;
+ }
+
+  /* 박스 2 */
+
+  .main_img8:hover img,
+  .box_b2:hover .main_img8 img,
+  .box_b2:hover .vmeee:hover ~ .main_img8 img {
+      filter: brightness(50%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+  /* 텍스트 스타일 */
+  .vmeee {
+    cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+    font-weight: bold;
+    position: absolute;
+  margin-left: 1070px;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    opacity: 0;
+    transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+  }
+
+  /* 이미지에 호버했을 때 텍스트 표시 */
+  .box_b2:hover .vmeee {
+    opacity: 1;
+  }
+
+
+
+
+
+  /* 박스 3 */
+
+
+
+  
+  
+
+
+
+/* 박스 1 */
+
+.main_img9:hover img,
+.box_b3:hover .main_img9 img,
+.box_b3:hover .mqqq:hover ~ .main_img9 img {
+    filter: brightness(50%); /* 밝기 조절로 어두운 효과 적용 */
+}
+
+  
+  /* 텍스트 스타일 */
+  .mqqq{
+    cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+    font-weight: bold;
+    position: absolute;
+   margin-left: 1550px;
+   margin-top: -150px;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    opacity: 0;
+    
+    transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+  }
+
+  /* 이미지에 호버했을 때 텍스트 표시 */
+  .box_b3:hover .mqqq{
+    opacity: 1;
+  }
+
+
+
+
+  .box_all{
+    margin-left: -100px;
+    margin-top: -130px;
+  }
+
+
+.cdddd{
+    margin-top: -370px;
+    margin-left: -23px;
+}
+
+.ccmmmzz{
+    margin-top: 60px;
+    margin-left: -10px;
+}
+
+.cxxxgbr{
+    margin-top: 300px;
+    
+}
+
+
+
+
+/* 
+ */
+
+ .lens_pge{
+    margin-top: -30px;
+ }
+
+
+
+ /*  */
+
+.orenge_box_sub{
+    background-color: #cb4802;
+    width: 319px;
+    height: 70px;
+    margin-left: 24px;
+    margin-top: -90px;
+}
+
+.top6 img{
+width: 40px;
+}
+.top6 {
+margin-top: -5px;
+
+}
+
+
+
+/* 돋보기 스타일 */
+.top6 img {
+    width: 37px;
+    cursor: pointer;
+}
+
+/* 검색 창 스타일 */
+.search-box {
+    display: none; /* 초기에는 숨김 */
+    position: absolute;
+    top: -15px; /* 위치는 필요에 따라 조정 */
+    right: 80px; /* 위치는 필요에 따라 조정 */
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    z-index: 1000;
+}
+
+.search-box input {
+    width: 200px;
+    padding: 8px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    color: #333;
+}

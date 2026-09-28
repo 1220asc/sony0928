@@ -1,0 +1,1737 @@
+
+
+/* <!-- index2.css --> */
+
+body,html{
+  width: 100%;
+  max-width: 1920px;
+  margin: 0 auto;
+  }
+  
+
+  
+  .logo1 {
+      width: 100px;
+     
+  }
+  
+  
+  .logo1{
+  margin-top: 7px;
+  margin-left: 10px;
+  }
+
+
+
+  
+  .top_box {
+      display: flex;
+      gap: 120px;
+      margin-left: 950px;
+      margin-top: -27px;
+      font-weight: bold;
+      color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 1;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+  .top_box a{
+      display: flex;
+      gap: 120px;
+      font-weight: bold;
+      color: rgb(0, 0, 0);
+    position: relative;
+    z-index: 1;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+  
+
+  
+  .top1:hover{
+      color: #cb4802;
+      cursor: pointer;
+  }
+  
+  
+  .top2:hover{
+      color: #cb4802;
+      cursor: pointer;
+  }
+  
+  
+  
+  .top3:hover{
+      color: #cb4802;
+      cursor: pointer;
+  }
+  
+  
+  
+  .top4:hover{
+      color: #cb4802;
+      cursor: pointer;
+  }
+  
+  
+  .top5:hover{
+      color: #cb4802;
+      cursor: pointer;
+  }
+  
+  .top1:hover, .top2:hover, .top3:hover, .top4:hover, .top5:hover {
+      color: #cb4802;
+      cursor: pointer;
+  }
+
+
+
+
+
+  /* 인트로  */
+
+
+  .main_iii{
+      position: relative;
+      z-index: -1;
+     margin-top: -43px;
+  }
+  .main_text1{
+      font-size: 30px;
+      font-weight: bold;
+      margin-top: 150px;
+      margin-left: 880px;
+      color: white;
+  }
+
+
+  .main_text1_1{
+      font-size: 60px;
+      font-weight: bold;
+      margin-top: 10px;
+      margin-left: 799px;
+      position: relative;
+      z-index: 1;
+      color: white;
+  }
+
+
+
+  .main_text2{
+      margin-left: 550px;
+     margin-top: 20px;
+      font-weight: bolder;
+      color: white;
+  }
+
+
+
+
+  .line1{
+      background-color: rgb(255, 255, 255);
+      width: 1920px;
+      height: 1px;
+     opacity: 50%;
+      margin-top: -677px;
+  }
+
+
+
+
+
+
+.sub1_text{
+  position: relative;
+  z-index: 1;
+  color: rgb(116, 105, 105);
+  margin-left: 560px;
+ margin-top: -33px;
+}
+
+.sub_img1 img{
+  width: 41px;
+
+}
+
+.sub_img1{
+  width: 30px;
+
+  margin-left: 1318px;
+  margin-top: -42px;
+  position: relative;
+  z-index: 1;
+  
+}
+
+
+.box_11 {
+  background-color: white;
+  width: 850px;
+  height: 45px;
+  margin-left: 550px;
+  margin-top: 60px;
+
+
+
+
+  border: 1px solid #ccc; /* 테두리 추가 (선택 사항) */
+}
+
+.sub1_text {
+  color: rgb(116, 105, 105);
+  cursor: text; /* 텍스트 입력 가능하게 커서 변경 */
+  flex-grow: 1; /* 텍스트가 공간을 차지하도록 설정 */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 검색 수정 */
+
+
+
+/*  푸터쪽 상자 */
+.dsojfsaf {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-left: 55px;
+  margin-top: 20px;
+}
+.sub_box1, .sub_box2, .sub_box3, .sub_box4 {
+  width: 850px;
+ 
+  background-color: #ffffff;
+  padding: 10px;
+  box-sizing: border-box;
+
+ 
+}
+.sub_box1, .sub_box2, .sub_box3 {
+  height: 50px;
+}
+.sub_box4 {
+  height: 47px;
+
+
+}
+
+
+.sub_box1 input, .sub_box2 input, .sub_box3 input, .sub_box4 textarea {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  background: none;
+  font-family: inherit; /* 상속된 글씨체 사용 */
+  font-size: inherit; /* 상속된 글씨 크기 사용 */
+}
+
+
+.sub_box4{
+  margin-top: 30px;
+  margin-left: -90px;
+}
+
+
+
+
+
+
+/* 줌렌즈 단렌즈 에리어얼 */
+
+.sub_text2{
+  color: rgb(82, 82, 82);
+  font-size: 20px;
+  margin-top: 270px;
+  margin-left: 90px;
+  font-weight: bold;
+}
+
+.sub_text2:hover{
+  cursor: pointer;
+  color: #cb4802;
+}
+
+
+.box_line1{
+  background-color: #929292;
+  height: 20px;
+  width: 1.2px;
+  margin-top: -23px;
+  margin-left: 240px;
+}
+
+
+
+
+
+
+.sub_text3{
+  color: rgb(82, 82, 82);
+  font-size: 20px;
+  margin-top: -24px;
+  margin-left: 280px;
+  font-weight: bold;
+}
+
+.sub_text3:hover{
+  cursor: pointer;
+  color: #cb4802;
+}
+
+.box_line2{
+  background-color: #929292;
+  height: 20px;
+  width: 1.2px;
+  margin-top: -23px;
+  margin-left: 420px;
+}
+
+
+
+.sub_text4{
+  color: rgb(82, 82, 82);
+  font-size: 20px;
+  margin-top: -26px;
+  margin-left: 460px;
+  font-weight: bold;
+}
+
+.sub_text4:hover{
+  cursor: pointer;
+  color: #cb4802;
+}
+
+
+
+/* 
+<!-- new arrival  --> */
+
+
+.img1 img{
+width: 350px;
+box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+}
+
+.img1{
+
+
+  margin-left: 90px;
+  margin-top: 80px;
+
+
+
+}
+
+
+.z1{
+  margin-top: -150px;
+  margin-left: 200px;
+  font-weight: bold;
+}
+
+
+
+
+/*  */
+
+.img2 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img2{
+  
+  
+      margin-left: 470px;
+      margin-top: -247px;
+  
+  
+  
+  }
+  
+  
+  .z2{
+      margin-top: -160px;
+      margin-left: 550px;
+      font-weight: bold;
+  }
+
+
+
+
+
+  .main_text4{
+      margin-top: 210px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .img1:hover img,
+  .box_q1:hover .img1 img,
+  .box_q1:hover .z1:hover ~ .img1 img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z1{
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left: 270px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q1:hover .z1{
+      opacity: 1;
+    }
+  
+  
+    .text11_1{
+      font-size: 25px;
+    }
+  
+  
+  
+  /* ////////// */
+  
+  
+  .img2:hover img,
+  .box_q2:hover .img2 img,
+  .box_q2:hover .z2:hover ~ .img2 img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z2{
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:645px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q2:hover .z2{
+      opacity: 1;
+    }
+  
+  
+    .text12_1{
+      font-size: 25px;
+    }
+  
+  
+  
+  
+  
+    /* 단렌즈 */
+  
+    .img3 img{
+      width: 350px;
+      box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+      }
+      
+      .img3{
+      
+      
+          margin-left: 90px;
+          margin-top: 80px;
+      
+      
+      
+      }
+  
+      .z3{
+          margin-top: -150px;
+          margin-left: 200px;
+          font-weight: bold;
+          color: rgb(255, 255, 255);
+          font-size: 15px;
+      }
+  
+      
+    .text13_1{
+      font-size: 20px;
+    }  
+
+
+
+
+
+    .img3:hover img,
+    .box_q3:hover .img3 img,
+    .box_q3:hover .z3:hover ~ .img3 img {
+        filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+    }
+    
+      
+      /* 텍스트 스타일 */
+      .z3{
+        cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+        font-weight: bold;
+        position: absolute;
+        z-index: 1;
+       margin-left:265px;
+       margin-top: -120px;
+        transform: translate(-50%, -50%);
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        text-align: center;
+        opacity: 0;
+        
+        transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+      }
+    
+      /* 이미지에 호버했을 때 텍스트 표시 */
+      .box_q3:hover .z3{
+        opacity: 1;
+      }
+    
+    
+      .text13_1{
+        font-size: 25px;
+      }
+    
+    
+      .text13_2{
+        margin-top: 10px;
+        }
+      
+      
+
+
+
+      /*  */
+
+
+  
+      .img4 img{
+        width: 350px;
+        box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+        }
+        
+        .img4{
+        
+        
+            margin-left: 470px;
+            margin-top: -247px;
+        
+        
+        
+        }
+
+
+
+
+
+
+
+
+
+        .img4:hover img,
+        .box_q4:hover .img4 img,
+        .box_q4:hover .z4:hover ~ .img4 img {
+            filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+        }
+        
+          
+          /* 텍스트 스타일 */
+          .z4{
+            cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+            font-weight: bold;
+            position: absolute;
+            z-index: 1;
+           margin-left:649px;
+           margin-top: -120px;
+            transform: translate(-50%, -50%);
+            color: rgb(255, 255, 255);
+            font-size: 15px;
+            text-align: center;
+            opacity: 0;
+            
+            transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+          }
+        
+          /* 이미지에 호버했을 때 텍스트 표시 */
+          .box_q4:hover .z4{
+            opacity: 1;
+          }
+        
+        
+          .text14_1{
+            font-size: 25px;
+          }
+        
+        
+        
+  
+  
+          .text14_2{
+  margin-top: 10px;
+}
+
+
+
+
+
+
+/*  */
+
+
+.img5 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img5{
+  
+  
+      margin-left: 850px;
+      margin-top: -247px;
+  
+  
+  
+  }
+
+
+
+
+
+
+
+  
+
+  .img5:hover img,
+  .box_q5:hover .img5 img,
+  .box_q5:hover .z5:hover ~ .img5 img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z5{
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:1025px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q5:hover .z5{
+      opacity: 1;
+    }
+  
+  
+    .text111_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text111_2{
+  margin-top: 10px;
+}
+
+
+
+/*  */
+      
+  
+.img6 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img6{
+  
+  
+      margin-left: 1230px;
+      margin-top: -247px;
+  
+  
+  
+  }
+
+
+
+
+
+
+
+  
+
+  .img6:hover img,
+  .box_q6:hover .img6 img,
+  .box_q6:hover .z6:hover ~ .img6 img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z6{
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:1409px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q6:hover .z6{
+      opacity: 1;
+    }
+  
+  
+    .text222_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text222_2{
+  margin-top: 10px;
+}
+
+
+
+
+/*  */
+
+.img7 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img7{
+  
+  
+      margin-left: 90px;
+      margin-top: 19px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img7:hover img,
+  .box_q7:hover .img7 img,
+  .box_q7:hover .z7:hover ~ .img7 img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z7{
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:265px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q7:hover .z7{
+      opacity: 1;
+    }
+  
+  
+    .text15_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text15_2{
+  margin-top: 10px;
+}
+
+
+
+
+/*  */
+
+
+
+.img8 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img8{
+  
+  
+      margin-left: 470px;
+      margin-top: -249px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img8:hover img,
+  .box_q8:hover .img8 img,
+  .box_q8:hover .z8:hover ~ .img8 img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z8{
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:645px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q8:hover .z8{
+      opacity: 1;
+    }
+  
+  
+    .text15_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text15_2{
+  margin-top: 10px;
+}
+
+
+
+
+/*  */
+
+
+
+.img9 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img9{
+  
+  
+      margin-left: 470px;
+      margin-top: -249px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img9:hover img,
+  .box_q9:hover .img9 img,
+  .box_q9:hover .z9:hover ~ .img9 img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z9{
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:645px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q9:hover .z9{
+      opacity: 1;
+    }
+  
+  
+    .text16_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text16_2{
+  margin-top: 10px;
+}
+
+
+
+
+
+
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+.img10 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img10 {
+  
+  
+      margin-left: 850px;
+      margin-top: -249px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img10:hover img,
+  .box_q10:hover .img10  img,
+  .box_q10:hover .z10 :hover ~ .img10  img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z10 {
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:1024px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q10:hover .z10{
+      opacity: 1;
+    }
+  
+  
+    .text166_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text166_2{
+  margin-top: 10px;
+}
+
+
+
+
+
+/*  */
+
+
+
+
+.img11 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img11 {
+  
+  
+      margin-left: 1230px;
+      margin-top: -249px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img11:hover img,
+  .box_q11:hover .img11  img,
+  .box_q11:hover .z11 :hover ~ .img11  img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z11 {
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:1404px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q11:hover .z11{
+      opacity: 1;
+    }
+  
+  
+    .text17_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text17_2{
+  margin-top: 10px;
+}
+
+
+
+
+/*  */
+
+
+
+
+
+
+
+
+.img12 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img12{
+  
+  
+      margin-left: 90px;
+      margin-top: 25px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img12:hover img,
+  .box_q12:hover .img12  img,
+  .box_q12:hover .z12 :hover ~ .img12  img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z12 {
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:264px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q12:hover .z12{
+      opacity: 1;
+    }
+  
+  
+    .text18_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text18_2{
+  margin-top: 10px;
+}
+
+
+
+/* 줌렌즈  */
+
+
+
+
+.img14 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img14{
+  
+  
+      margin-left: 90px;
+      margin-top: 84px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img14:hover img,
+  .box_q14:hover .img14 img,
+  .box_q14:hover .z14 :hover ~ .img14  img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z14 {
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:264px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q14:hover .z14{
+      opacity: 1;
+    }
+  
+  
+    .text20_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text20_2{
+  margin-top: 10px;
+}
+
+/*  */
+
+
+
+
+.img15 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img15{
+  
+  
+      margin-left: 470px;
+      margin-top: -249px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img15:hover img,
+  .box_q15:hover .img15 img,
+  .box_q15:hover .z15 :hover ~ .img15  img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z15 {
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:654px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q15:hover .z15{
+      opacity: 1;
+    }
+  
+  
+    .text21_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text21_2{
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+/*  */
+
+
+
+
+
+
+
+
+.img18 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img18{
+  
+  
+      margin-left:855px;
+      margin-top: -249px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img18:hover img,
+  .box_q18:hover .img18 img,
+  .box_q18:hover .z18 :hover ~ .img18  img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z18 {
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:1034px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q18:hover .z18{
+      opacity: 1;
+    }
+  
+  
+    .text25_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text25_2{
+  margin-top: 10px;
+}
+
+
+
+
+
+/*  */
+
+
+
+.img19 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img19{
+  
+  
+      margin-left:1240px;
+      margin-top: -249px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img19:hover img,
+  .box_q19:hover .img19 img,
+  .box_q19:hover .z19 :hover ~ .img19 img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z19 {
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:1414px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q19:hover .z19{
+      opacity: 1;
+    }
+  
+  
+    .text26_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text26_2{
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+/*  */
+
+
+
+
+
+
+.img20 img{
+  width: 350px;
+  box-shadow: 0 5px 15px rgba(82, 82, 82, 0.2); /* 그림자 추가 */
+  }
+  
+  .img20{
+  
+  
+      margin-left:90px;
+      margin-top: 29px;
+  
+  
+  
+  }
+
+
+
+
+
+
+ 
+
+  .img20:hover img,
+  .box_q20:hover .img20 img,
+  .box_q20:hover .z20 :hover ~ .img20 img {
+      filter: brightness(30%); /* 밝기 조절로 어두운 효과 적용 */
+  }
+  
+    
+    /* 텍스트 스타일 */
+    .z20{
+      cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+      font-weight: bold;
+      position: absolute;
+      z-index: 1;
+     margin-left:264px;
+     margin-top: -120px;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      text-align: center;
+      opacity: 0;
+      
+      transition: 0.3s ease; /* 호버 시 텍스트가 나타나는 트랜지션 효과 */
+    }
+  
+    /* 이미지에 호버했을 때 텍스트 표시 */
+    .box_q20:hover .z20{
+      opacity: 1;
+    }
+  
+  
+    .text27_1{
+      font-size: 25px;
+    }
+  
+  
+  
+
+.text27_2{
+  margin-top: 10px;
+}
+
+
+
+
+
+
+  /* 푸터 */
+  
+
+/* 푸터 */
+.vbe{
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 340px;
+  color: rgb(255, 255, 255);
+}
+
+.footer_text1 {
+  font-weight: bold;
+}
+
+
+.footer_text2 {
+  margin-top: -27px;
+  margin-left: 130px;
+}
+
+.sub_text_footer{
+  font-size: 20px;
+}
+
+
+
+
+.footer_text3 {
+  font-weight: bold;
+}
+
+.footer_text4 {
+  margin-top: -27px;
+  margin-left: 170px;
+}
+
+
+
+
+
+.footer_text5 {
+  font-weight: bold;
+ 
+}
+
+.footer_text6 {
+  margin-top: -28px;
+  margin-left: 155px;
+}
+
+
+
+.footer_text7 {
+  font-weight: bold;
+  margin-top: 6px;
+}
+
+.footer_text8 {
+  margin-top: -28px;
+  margin-left: 115px;
+}
+
+
+
+
+
+.footer_text9 {
+  font-weight: bold;
+ 
+}
+
+.footer_text10 {
+  margin-top: -28px;
+  margin-left: 215px;
+}
+
+.footer_text11{
+  margin-top: 50px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+
+
+.footer_text12 {
+  font-weight: bold;
+ font-size: 14px;
+ margin-top: 3px;
+}
+
+.footer_text13 {
+  margin-top: -17px;
+  margin-left: 35px;
+  font-size: 14px;
+}
+
+
+.footer_text14 {
+  font-weight: bold;
+ font-size: 14px;
+ 
+}
+
+
+.sub_text_footer:hover{
+  color: #929292;
+  cursor: pointer;
+  position: relative;
+}
+
+.gray_box1 {
+  border-radius: 32px;
+  color: rgb(255, 92, 92);
+  width: 200px;
+  height: 35px;
+  border: 1px solid rgb(255, 255, 255); 
+  background-color: transparent; 
+  margin-left: 1600px;
+  margin-top: -300px;
+ 
+}
+
+.sub_text_footer{
+  margin-left: 1631px;
+  font-size: 16px;
+  margin-top: -32px;
+}
+
+.footer{
+  margin-bottom:
+}
+
+.bbbbb{
+  margin-top: 50px;
+}
+
+
+
+
+/* 클릭할때  */
+
+
+
+
+/* 푸터 상자 */
+
+
+.black_box{
+  background-color: #111111;
+  width: 1920px;
+  height: 360px;
+  margin-top:  -90px;
+  position: relative;
+  z-index: -1;
+  } 
+
+
+
+  /*  */
+  .main_box{
+    margin-left: -20px;
+  }
+
+
+
+  
